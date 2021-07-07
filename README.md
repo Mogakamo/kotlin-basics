@@ -1,2 +1,2 @@
 # kotlin-basics
-learning the basics of kotlin
+Learning the basics of kotlin using programiz
